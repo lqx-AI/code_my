@@ -1,0 +1,13 @@
+import turtle
+turtle.setup(900,750)
+turtle.penup()
+turtle.goto(0,-300)
+turtle.pendown()
+turtle.fd(200)
+turtle.seth(120)
+turtle.fd(200)
+turtle.seth(-120)
+turtle.fd(200)
+turtle.pencolor('purple')
+turtle.size(30)
+turtle.dine()
